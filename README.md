@@ -1,29 +1,20 @@
 # vue-chat
 
-## Project setup
+>> 本人对vue和原生js理解不是特别透彻，所以该代码可能有写不合理的地方
+
+## 安装所需环境
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 启动node建议websocket服务器
+```
+node server.js
+```
+
+### 启动项目
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+[我的Git](https://github.com/JeasonLaung/vue-chat.git).
